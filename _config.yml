@@ -35,7 +35,7 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: yagmur.yener.562
 # twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
@@ -43,7 +43,7 @@ facebook: myfacebook
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: reneyagmur
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -52,7 +52,7 @@ github: mygithub
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: yagmur.yener.yy@gmail.com
 
 authors:
     johndoe:
@@ -81,8 +81,8 @@ width: normal
 projects: true
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: true
+# about: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
